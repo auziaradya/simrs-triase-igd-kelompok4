@@ -1,4 +1,3 @@
 .env
 *.sql.bak
 data_pasien_asli*
-.DS_Store
