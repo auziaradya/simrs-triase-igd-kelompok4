@@ -1,3 +1,11 @@
+simrs-triase-igd-kelompok4/
+├── .env
+├── .gitignore
+├── README.md
+├── ddl.sql
+└── triase-igd.html
+
+<img width="959" height="416" alt="image" src="https://github.com/user-attachments/assets/c5befa40-6c55-4f28-9166-b1de91fcac35" />
 SimRS — Modul Triase & Pendaftaran IGD
 RS Sehat Sentosa
 
